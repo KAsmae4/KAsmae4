@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Kerarmi%20Asmae&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header"/>
 
-## <p align="center">I'm Asmae Kerarmi — 4th-year Computer Science Student & Full Stack Developer</p>
+## <p align="center">I'm Kerarmi Asmae — 4th-year Computer Science Student & Full Stack Developer</p>
 
 <p align="center"><i>💡 “Crafting logic and elegance in every line of code.”</i></p>
 
