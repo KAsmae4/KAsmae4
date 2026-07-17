@@ -1,42 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=180&text=Kerarmi%20Asmae&fontSize=55&fontColor=61DAFB&fontAlignY=40&animation=twinkling&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=180&text=Kerarmi%20Asmae&fontSize=55&fontColor=61DAFB&fontAlignY=40&animation=fadeIn&section=header"/>
 
-<h1 align="center">Hi 👋 I'm Kerarmi Asmae</h1>
+<h1 align="center">Hi 👋, I'm Kerarmi Asmae</h1>
 
 <h3 align="center">
 🎓 Computer Engineering Student <br>
-🤖 Data Science • Artificial Intelligence • IoT <br>
+🤖 Data Science • Artificial Intelligence • Internet of Things <br>
 📍 Rabat, Morocco 🇲🇦 <br>
-🎯 Looking for a 6-Month PFE Internship (2027)
+💼 Looking for a 6-Month PFE Internship (2027)
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Data+Science+Student;Artificial+Intelligence+Enthusiast;Machine+Learning+%7C+Computer+Vision;IoT+Developer;Python+%7C+Java+%7C+Laravel+%7C+React;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Artificial+Intelligence;Machine+Learning;Data+Science;Internet+of+Things;Python+Developer;Always+Learning+Something+New" />
 </p>
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
-
-</div>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</p>
 
 ---
 
-# 🚀 About Me
+# 👩‍💻 About Me
 
 ```python
 class Asmae:
 
     def __init__(self):
 
+        self.name = "Kerarmi Asmae"
+
         self.role = "Computer Engineering Student"
 
         self.specialization = [
-            "Data Science",
             "Artificial Intelligence",
+            "Data Science",
             "Machine Learning",
-            "IoT"
+            "Internet of Things"
         ]
 
         self.languages = [
@@ -52,10 +52,12 @@ class Asmae:
             "Deep Learning",
             "Computer Vision",
             "Generative AI",
-            "LLMs"
+            "Large Language Models"
         ]
 
-        self.goal = "PFE Internship - 2027"
+        self.goal = "6-Month PFE Internship"
+
+        self.location = "Morocco 🇲🇦"
 ```
 
 ---
@@ -65,30 +67,30 @@ class Asmae:
 <p align="center">
 
 <a href="mailto:kerarmiasmae@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=61DAFB"/>
 </a>
 
 <a href="https://www.linkedin.com/in/asmae-kerarmi-596955323">
-<img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=61DAFB"/>
 </a>
 
 <a href="https://github.com/KAsmae4">
-<img src="https://img.shields.io/badge/GitHub-091519?style=for-the-badge&logo=github&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=61DAFB"/>
 </a>
 
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=KAsmae4&label=Visitors&color=3a8296"/>
+<img src="https://komarev.com/ghpvc/?username=KAsmae4&label=Visitors&style=for-the-badge&color=0891b2"/>
 
-<img src="https://img.shields.io/github/followers/KAsmae4?label=Followers&style=flat&color=3a8296"/>
+<img src="https://img.shields.io/github/followers/KAsmae4?label=Followers&style=for-the-badge&color=0891b2"/>
 
 </p>
 
 ---
 
-# 💻 Languages
+# 💻 Programming Languages
 
 <p align="center">
 
@@ -98,7 +100,7 @@ class Asmae:
 
 ---
 
-# ⚡ Frameworks & Libraries
+# ⚙️ Frameworks
 
 <p align="center">
 
@@ -108,37 +110,17 @@ class Asmae:
 
 ---
 
-# 🤖 AI • Data Science
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=8"/>
-
-</p>
-
-- Machine Learning
-- Deep Learning
-- Data Science
-- Computer Vision
-- Generative AI (LLMs)
-- Scikit-Learn
-- Streamlit
-- Pandas
-- NumPy
-
----
-
 # 🛢 Databases
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres&perline=8"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=6"/>
 
 </p>
 
 ---
 
-# ☁️ Tools
+# 🛠 Tools
 
 <p align="center">
 
@@ -148,13 +130,28 @@ class Asmae:
 
 ---
 
-# 📈 GitHub Analytics
+# 🤖 AI & Data Science
+
+- 🧠 Machine Learning
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- 👁️ Computer Vision *(Learning)*
+- 🧠 Deep Learning *(Learning)*
+- 💬 Large Language Models *(Learning)*
+- 📈 Pandas
+- 🔢 NumPy
+- 📊 Streamlit
+- 📚 Scikit-Learn
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KAsmae4&show_icons=true&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KAsmae4&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=KAsmae4&theme=radical"/>
+<img height="170" src="https://streak-stats.demolab.com?user=KAsmae4&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -164,43 +161,43 @@ class Asmae:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAsmae4&layout=compact&theme=radical"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAsmae4&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 Featured Projects
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KAsmae4&theme=radical&column=4&margin-w=15&margin-h=15"/>
-
-</p>
+| Project | Technologies |
+|----------|--------------|
+| 🤖 CVision AI | Python • NLP • SQL |
+| 📊 Cyber Threat Dashboard | Streamlit • Python |
+| 🍔 Foodie | React Native • Firebase • Node.js |
+| 🏥 Hospital Management System | Flask • SQLite |
+| 📱 OCP Internship Projects | Laravel • React |
 
 ---
 
-# 📌 Featured Projects
+# 📚 Certifications
 
-⭐ CVision AI
-
-📊 Cyber Threat Dashboard
-
-🍔 Foodie
-
-🏥 Hospital Management System
-
-📱 OCP Internship Projects
+- 🏅 Cisco PCAP – Python
+- 🏅 Cisco JavaScript Essentials
+- 🏅 Python for Data Science
+- 🏅 Flask Framework
+- 🏅 Java Programming
+- 🏅 TCF France B2
 
 ---
 
 # 🎯 Current Focus
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 👁 Computer Vision
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- 📊 Data Science
 - 📡 Internet of Things
-- 🚀 Building AI Projects
+- 🚀 Building Real AI Projects
 - 💼 Looking for a PFE Internship (2027)
 
 ---
@@ -209,13 +206,15 @@ class Asmae:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAsmae4&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAsmae4&theme=tokyo-night"/>
 
 </p>
 
 ---
 
 # 🐍 Contribution Snake
+
+> *(This will appear automatically once your GitHub Action succeeds.)*
 
 <p align="center">
 
@@ -225,4 +224,12 @@ class Asmae:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=61DAFB"/>
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"The beautiful thing about learning is that no one can take it away from you."*
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer"/>
