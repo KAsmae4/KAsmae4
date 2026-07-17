@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=180&text=Kerarmi%20Asmae&fontSize=55&fontColor=61DAFB&fontAlignY=40&animation=fadeIn&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=220&section=header&text=Kerarmi%20Asmae&fontSize=55&fontColor=61DAFB&animation=fadeIn&fontAlignY=38"/>
 
-<h1 align="center">Hi 👋, I'm Kerarmi Asmae</h1>
+<h1 align="center">Hi 👋 I'm Kerarmi Asmae</h1>
 
 <h3 align="center">
 🎓 Computer Engineering Student <br>
@@ -10,13 +10,17 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Artificial+Intelligence;Machine+Learning;Data+Science;Internet+of+Things;Python+Developer;Always+Learning+Something+New" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=61DAFB&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Artificial+Intelligence+Enthusiast;Machine+Learning;Data+Science;Internet+of+Things;Full+Stack+Developer;Always+Learning+New+Technologies"/>
+
 </p>
 
 ---
 
 <p align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+
 </p>
 
 ---
@@ -45,7 +49,8 @@ class Asmae:
             "PHP",
             "JavaScript",
             "TypeScript",
-            "SQL"
+            "SQL",
+            "C"
         ]
 
         self.currently_learning = [
@@ -66,25 +71,29 @@ class Asmae:
 
 <p align="center">
 
-<a href="mailto:kerarmiasmae@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=61DAFB"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=61DAFB">
 </a>
 
 <a href="https://www.linkedin.com/in/asmae-kerarmi-596955323">
-<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=61DAFB">
 </a>
 
 <a href="https://github.com/KAsmae4">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=61DAFB">
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=google-chrome&logoColor=61DAFB">
 </a>
 
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=KAsmae4&label=Visitors&style=for-the-badge&color=0891b2"/>
+<img src="https://komarev.com/ghpvc/?username=KAsmae4&label=Visitors&style=for-the-badge&color=0891b2">
 
-<img src="https://img.shields.io/github/followers/KAsmae4?label=Followers&style=for-the-badge&color=0891b2"/>
+<img src="https://img.shields.io/github/followers/KAsmae4?style=for-the-badge&color=0891b2">
 
 </p>
 
@@ -94,19 +103,39 @@ class Asmae:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,php,js,ts,c,html,css,mysql,mongodb&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,java,php,js,ts,c,html,css&perline=8">
 
 </p>
 
 ---
 
-# ⚙️ Frameworks
+# ⚡ Frameworks
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,angular,nodejs,laravel,spring,flask,bootstrap,tailwind&perline=8"/>
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,laravel,spring,flask,bootstrap,tailwind&perline=8">
 
 </p>
+
+---
+
+# 🤖 Artificial Intelligence
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6">
+
+</p>
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Large Language Models (LLMs)
+- Scikit-Learn
+- Pandas
+- NumPy
+- Streamlit
 
 ---
 
@@ -114,7 +143,7 @@ class Asmae:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=6"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres&perline=6">
 
 </p>
 
@@ -124,81 +153,55 @@ class Asmae:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,azure,vscode,idea,pycharm&perline=9"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,azure,vscode,idea,pycharm&perline=9">
 
 </p>
 
 ---
 
-# 🤖 AI & Data Science
+# 📚 Currently Learning
 
-- 🧠 Machine Learning
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 👁️ Computer Vision *(Learning)*
-- 🧠 Deep Learning *(Learning)*
-- 💬 Large Language Models *(Learning)*
-- 📈 Pandas
-- 🔢 NumPy
-- 📊 Streamlit
-- 📚 Scikit-Learn
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KAsmae4&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=KAsmae4&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAsmae4&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 🤖 Generative AI
+- 💬 Large Language Models
+- 📡 Internet of Things
+- ☁️ Cloud Computing
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Technologies |
-|----------|--------------|
-| 🤖 CVision AI | Python • NLP • SQL |
-| 📊 Cyber Threat Dashboard | Streamlit • Python |
-| 🍔 Foodie | React Native • Firebase • Node.js |
-| 🏥 Hospital Management System | Flask • SQLite |
-| 📱 OCP Internship Projects | Laravel • React |
+| Project | Description |
+|---------|-------------|
+| 🤖 CVision AI | AI-powered recruitment assistant using NLP & Machine Learning |
+| 📊 Cyber Threat Dashboard | Interactive cybersecurity dashboard with Streamlit |
+| 🍔 Foodie | Mobile food delivery application |
+| 🏥 Hospital Management | Hospital management system using Flask |
+| 📱 OCP Internship Projects | Laravel, Spring Boot & Angular applications |
 
 ---
 
-# 📚 Certifications
+# 🎓 Certifications
 
-- 🏅 Cisco PCAP – Python
+- 🏅 Cisco PCAP - Python
 - 🏅 Cisco JavaScript Essentials
 - 🏅 Python for Data Science
-- 🏅 Flask Framework
+- 🏅 Python & Flask Framework
 - 🏅 Java Programming
-- 🏅 TCF France B2
+- 🏅 TCF France - B2
 
 ---
 
-# 🎯 Current Focus
+# 📈 GitHub Activity
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 👁️ Computer Vision
-- 📊 Data Science
-- 📡 Internet of Things
-- 🚀 Building Real AI Projects
-- 💼 Looking for a PFE Internship (2027)
+> If GitHub Readme Stats is temporarily unavailable, GitHub will display a placeholder. This is normal.
+
+<p align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KAsmae4&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -206,7 +209,7 @@ class Asmae:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAsmae4&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAsmae4&theme=github-dark"/>
 
 </p>
 
@@ -214,22 +217,43 @@ class Asmae:
 
 # 🐍 Contribution Snake
 
-> *(This will appear automatically once your GitHub Action succeeds.)*
-
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/KAsmae4/KAsmae4/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/KAsmae4/KAsmae4/output/github-contribution-grid-snake.svg">
 
 </p>
 
 ---
 
-<p align="center">
+# 🎯 2026 Goals
 
-### ⭐ Thanks for visiting my profile!
+- 🚀 Build production-ready AI projects
+- 🤖 Master Deep Learning
+- 📊 Strengthen Data Science skills
+- 📡 Explore IoT applications
+- 💼 Secure a 6-Month PFE Internship
+- 🌍 Contribute to Open Source
 
-*"The beautiful thing about learning is that no one can take it away from you."*
+---
 
-</p>
+# 📫 Contact
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer"/>
+📧 **Email:** YOUR_EMAIL
+
+💼 **LinkedIn:** https://www.linkedin.com/in/asmae-kerarmi-596955323
+
+🌐 **Portfolio:** YOUR_PORTFOLIO
+
+📍 **Location:** Rabat, Morocco
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile!
+
+*"Always learning. Always building. Always improving."*
+
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=140&section=footer"/>
