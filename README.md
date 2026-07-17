@@ -1,14 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=220&section=header&text=Kerarmi%20Asmae&fontSize=55&fontColor=61DAFB&animation=fadeIn&fontAlignY=38"/>
-
-<h1 align="center">Hi 👋 I'm Kerarmi Asmae</h1>
+<h3 align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=220&section=header&text=Kerarmi%20Asmae&fontSize=55&fontColor=61DAFB&animation=fadeIn&fontAlignY=38" align="center"/>
+</h3>
+<h1 align="center">Hi 👋</h1>
 
 <h3 align="center">
 🎓 Computer Engineering Student <br>
 🤖 Data Science • Artificial Intelligence • Internet of Things <br>
 📍 Rabat, Morocco 🇲🇦 <br>
-💼 Looking for a 6-Month PFE Internship (2027)
 </h3>
 
+<p align="center"><i>💡 “Crafting logic and elegance in every line of code.”</i></p>
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=61DAFB&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Artificial+Intelligence+Enthusiast;Machine+Learning;Data+Science;Internet+of+Things;Full+Stack+Developer;Always+Learning+New+Technologies"/>
@@ -24,46 +25,6 @@
 </p>
 
 ---
-
-# 👩‍💻 About Me
-
-```python
-class Asmae:
-
-    def __init__(self):
-
-        self.name = "Kerarmi Asmae"
-
-        self.role = "Computer Engineering Student"
-
-        self.specialization = [
-            "Artificial Intelligence",
-            "Data Science",
-            "Machine Learning",
-            "Internet of Things"
-        ]
-
-        self.languages = [
-            "Python",
-            "Java",
-            "PHP",
-            "JavaScript",
-            "TypeScript",
-            "SQL",
-            "C"
-        ]
-
-        self.currently_learning = [
-            "Deep Learning",
-            "Computer Vision",
-            "Generative AI",
-            "Large Language Models"
-        ]
-
-        self.goal = "6-Month PFE Internship"
-
-        self.location = "Morocco 🇲🇦"
-```
 
 ---
 
@@ -170,18 +131,6 @@ class Asmae:
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🤖 CVision AI | AI-powered recruitment assistant using NLP & Machine Learning |
-| 📊 Cyber Threat Dashboard | Interactive cybersecurity dashboard with Streamlit |
-| 🍔 Foodie | Mobile food delivery application |
-| 🏥 Hospital Management | Hospital management system using Flask |
-| 📱 OCP Internship Projects | Laravel, Spring Boot & Angular applications |
-
----
-
 # 🎓 Certifications
 
 - 🏅 Cisco PCAP - Python
@@ -189,7 +138,6 @@ class Asmae:
 - 🏅 Python for Data Science
 - 🏅 Python & Flask Framework
 - 🏅 Java Programming
-- 🏅 TCF France - B2
 
 ---
 
@@ -236,24 +184,10 @@ class Asmae:
 
 ---
 
-# 📫 Contact
-
-📧 **Email:** YOUR_EMAIL
-
-💼 **LinkedIn:** https://www.linkedin.com/in/asmae-kerarmi-596955323
-
-🌐 **Portfolio:** YOUR_PORTFOLIO
-
-📍 **Location:** Rabat, Morocco
-
----
-
+# ✍️ Random Dev Quote 
 <h3 align="center">
 
-⭐ Thanks for visiting my profile!
-
-*"Always learning. Always building. Always improving."*
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB"/> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling"/>
 
 </h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=140&section=footer"/>
