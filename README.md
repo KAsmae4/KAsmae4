@@ -1,78 +1,228 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Kerarmi%20Asmae&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=180&text=Kerarmi%20Asmae&fontSize=55&fontColor=61DAFB&fontAlignY=40&animation=twinkling&section=header"/>
 
-## <p align="center">I'm Kerarmi Asmae — 5th-year Computer Science Student & Full Stack Developer</p>
+<h1 align="center">Hi 👋 I'm Kerarmi Asmae</h1>
 
-<p align="center"><i>💡 “Crafting logic and elegance in every line of code.”</i></p>
+<h3 align="center">
+🎓 Computer Engineering Student <br>
+🤖 Data Science • Artificial Intelligence • IoT <br>
+📍 Rabat, Morocco 🇲🇦 <br>
+🎯 Looking for a 6-Month PFE Internship (2027)
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Data+Science+Student;Artificial+Intelligence+Enthusiast;Machine+Learning+%7C+Computer+Vision;IoT+Developer;Python+%7C+Java+%7C+Laravel+%7C+React;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
 <div align="center">
-    <picture>
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
-    </picture>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+
 </div>
 
 ---
 
-### 📬 Connect With Me  
+# 🚀 About Me
+
+```python
+class Asmae:
+
+    def __init__(self):
+
+        self.role = "Computer Engineering Student"
+
+        self.specialization = [
+            "Data Science",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "IoT"
+        ]
+
+        self.languages = [
+            "Python",
+            "Java",
+            "PHP",
+            "JavaScript",
+            "TypeScript",
+            "SQL"
+        ]
+
+        self.currently_learning = [
+            "Deep Learning",
+            "Computer Vision",
+            "Generative AI",
+            "LLMs"
+        ]
+
+        self.goal = "PFE Internship - 2027"
+```
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:kerarmiasmae@gmail.com"><img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB"/></a>
-  <a href="https://www.linkedin.com/in/asmae-kerarmi-596955323"><img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB"/></a>
+
+<a href="mailto:kerarmiasmae@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB"/>
+</a>
+
+<a href="https://www.linkedin.com/in/asmae-kerarmi-596955323">
+<img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB"/>
+</a>
+
+<a href="https://github.com/KAsmae4">
+<img src="https://img.shields.io/badge/GitHub-091519?style=for-the-badge&logo=github&logoColor=61DAFB"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KAsmae4&color=3a8296&label=Profile%20Views"/>
-  <img src="https://img.shields.io/github/followers/KAsmae4?label=GitHub%20Followers&color=3a8296&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=KAsmae4&label=Visitors&color=3a8296"/>
+
+<img src="https://img.shields.io/github/followers/KAsmae4?label=Followers&style=flat&color=3a8296"/>
+
 </p>
 
 ---
 
-### 🧠 Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,nodejs,php&theme=light"/>
-</p>
-
----
-
-### ⚙️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light"/>
-</p>
-
----
-
-### 📊 GitHub Statistics
-
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=KAsmae4&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-<img src="https://streak-stats.demolab.com?user=KAsmae4&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
-<p>&nbsp;<img align="center" src="https://readme-stars.vercel.app/api?username=KAsmae4&hide=contribs,issues&show_icons=true" /></p>
-
----
-
-### 🧩 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAsmae4&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
-
----
-
-### 🏆 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=KAsmae4&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-
----
-
-### ✍️ Random Dev Quote
+# 💻 Languages
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,php,js,ts,c,html,css,mysql,mongodb&perline=10"/>
+
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling"/>
+# ⚡ Frameworks & Libraries
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,laravel,spring,flask,bootstrap,tailwind&perline=8"/>
+
+</p>
+
+---
+
+# 🤖 AI • Data Science
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=8"/>
+
+</p>
+
+- Machine Learning
+- Deep Learning
+- Data Science
+- Computer Vision
+- Generative AI (LLMs)
+- Scikit-Learn
+- Streamlit
+- Pandas
+- NumPy
+
+---
+
+# 🛢 Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres&perline=8"/>
+
+</p>
+
+---
+
+# ☁️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,azure,vscode,idea,pycharm&perline=9"/>
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KAsmae4&show_icons=true&theme=radical"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=KAsmae4&theme=radical"/>
+
+</p>
+
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAsmae4&layout=compact&theme=radical"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KAsmae4&theme=radical&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+⭐ CVision AI
+
+📊 Cyber Threat Dashboard
+
+🍔 Foodie
+
+🏥 Hospital Management System
+
+📱 OCP Internship Projects
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 👁 Computer Vision
+- 📡 Internet of Things
+- 🚀 Building AI Projects
+- 💼 Looking for a PFE Internship (2027)
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAsmae4&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/KAsmae4/KAsmae4/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=61DAFB"/>
