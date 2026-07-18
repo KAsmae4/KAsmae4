@@ -30,7 +30,7 @@
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kerarmiasmae@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=61DAFB">
 </a>
 
