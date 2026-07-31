@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=61DAFB">
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://kasmae4.github.io/portfolioo/">
 <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=google-chrome&logoColor=61DAFB">
 </a>
 
