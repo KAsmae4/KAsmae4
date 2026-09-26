@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋</h1>
 
 <h3 align="center">
-🎓 Computer Engineering Student <br>
+🎓 Data Engineering Student <br>
 🤖 Data Science • Artificial Intelligence • Internet of Things <br>
 📍 Rabat, Morocco 🇲🇦 <br>
 </h3>
