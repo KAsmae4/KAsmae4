@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋</h1>
 
 <h3 align="center">
-🎓 Data Engineering Student <br>
+🎓 Computer Engineering Student <br>
 🤖 Data Science • Artificial Intelligence • Internet of Things <br>
 📍 Rabat, Morocco 🇲🇦 <br>
 </h3>
@@ -147,14 +147,6 @@
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KAsmae4&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KAsmae4&theme=github-compact" alt="GitHub Activity Graph">
 </p>
 
 ---
