@@ -154,12 +154,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=KAsmae4&theme=github-compact"
-  alt="Asmae's GitHub Activity Graph"
-/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KAsmae4&theme=github-compact" alt="GitHub Activity Graph">
 </p>
 
 ---
