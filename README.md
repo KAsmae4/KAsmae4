@@ -155,7 +155,10 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAsmae4&theme=github-dark"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=KAsmae4&theme=github-compact"
+  alt="Asmae's GitHub Activity Graph"
+/>
 
 </p>
 
